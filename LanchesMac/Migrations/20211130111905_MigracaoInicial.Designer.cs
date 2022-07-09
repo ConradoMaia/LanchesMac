@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LanchesMac.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20211122125029_MigracaoInicial")]
+    [Migration("20211130111905_MigracaoInicial")]
     partial class MigracaoInicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
